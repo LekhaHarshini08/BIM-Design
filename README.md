@@ -26,8 +26,8 @@ This project features a single-storey, 3BHK modern residential house model desig
 
 ## 🔗 Downloads
 
-- Revit Model: [Download .RVT]([link-to-drive-or-lfs](https://drive.google.com/drive/folders/18qb6w0Y3JiXep2bmWPa_3xfNMVU3m22W?usp=sharing))
-- IFC Export: [Download .IFC]([link-to-ifc](https://drive.google.com/drive/folders/1ZARtlmT9KYuBeHtWYwhBhIaCdPUA9WIw?usp=sharing))
+- Revit Model: [Download .RVT]][https://drive.google.com/drive/folders/18qb6w0Y3JiXep2bmWPa_3xfNMVU3m22W?usp=sharing]
+- IFC Export: [Download .IFC][https://drive.google.com/drive/folders/1ZARtlmT9KYuBeHtWYwhBhIaCdPUA9WIw?usp=sharing]
 
 ---
 
