@@ -20,7 +20,7 @@ This project features a single-storey, 3BHK modern residential house model desig
 
 ## 📸 Screenshots
 
-> Add screenshots of plan, elevation, and 3D view are provided in the repository
+> The screenshots of plan, elevation, and 3D view are provided in the repository
 
 ---
 
